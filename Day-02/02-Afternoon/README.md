@@ -8,7 +8,7 @@ Extend the notes API with MongoDB persistence, Mongoose models, and Zod validati
 
 - [Class code](Code/index.js)
 - [Beginner assessment · CRUD Assignment](https://brindle-goal-102.notion.site/CRUD-Assignment-40146b36b2e9801c8e59fc9fb217f0c9)
-- [Morning notes for reference](https://brindle-goal-102.notion.site/Week-1-Thursday-NOTES-40046b36b2e980f4ba2ae92bbd39dabf)
+- [Notes · shared with the morning session](https://brindle-goal-102.notion.site/Week-1-Thursday-NOTES-40046b36b2e980f4ba2ae92bbd39dabf)
 
 ## Run the class code
 

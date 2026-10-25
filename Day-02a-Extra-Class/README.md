@@ -18,7 +18,7 @@ Install [Bun](https://bun.com), then start your own MongoDB instance or use your
 From the repository root:
 
 ```bash
-cd Day-02-Extra-Class/Code
+cd Day-02a-Extra-Class/Code
 bun install --frozen-lockfile
 cp .env.example .env
 # Set MONGODB_URL and replace JWT_SECRET with your own long random secret.

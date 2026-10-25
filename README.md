@@ -6,10 +6,7 @@ All Web Dev class code, assignments, and resource links from 100xDevs Winter Cam
 
 - [Day 01 · JavaScript · 20 October 2026](Day-01/README.md)
 - [Day 02 · Web Development · 22 October 2026](Day-02/README.md)
-
-## Extra classes
-
-- [25 October 2026 · Express, Zod & MongoDB](Extra-Classes/2026-10-25-Express-Zod-MongoDB/README.md)
+- [Extra Class · Express, Zod & MongoDB · 25 October 2026](Extra-Classes/2026-10-25-Express-Zod-MongoDB/README.md)
 
 ## Class resources
 

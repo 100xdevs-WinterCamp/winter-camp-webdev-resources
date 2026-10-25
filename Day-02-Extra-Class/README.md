@@ -18,7 +18,7 @@ Install [Bun](https://bun.com), then start your own MongoDB instance or use your
 From the repository root:
 
 ```bash
-cd Extra-Classes/2026-10-25-Express-Zod-MongoDB/Code
+cd Day-02-Extra-Class/Code
 bun install --frozen-lockfile
 cp .env.example .env
 # Set MONGODB_URL and replace JWT_SECRET with your own long random secret.
@@ -27,4 +27,4 @@ bun src/index.js
 
 The server listens at `http://localhost:3003`. Keep `.env` private. This project uses `Bun.password`, so run it with Bun.
 
-[Original code](https://github.com/100xwinter-arc/jwt-middleware) · [Extra classes](../README.md) · [All resources](../../README.md)
+[Original code](https://github.com/100xwinter-arc/jwt-middleware) · [All resources](../README.md)

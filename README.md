@@ -8,6 +8,7 @@ All Web Dev class code, assignments, and resource links from 100xDevs Winter Cam
 - [Day 02 · Web Development · 22 October 2026](Day-02/README.md)
 - [Extra Class · Express, Zod & MongoDB · 25 October 2026](Day-02a-Extra-Class/README.md)
 - [Day 04 · Building a CRUD Project · 27 October 2026](Day-04/README.md)
+- [Day 05 · Prediction Market Orderbooks · 29 October 2026](Day-05/README.md)
 
 ## Class resources
 
@@ -19,6 +20,8 @@ All Web Dev class code, assignments, and resource links from 100xDevs Winter Cam
 | 02 | [Afternoon](Day-02/02-Afternoon/README.md) | [Class code](Day-02/02-Afternoon/Code) · [Beginner assessment](https://brindle-goal-102.notion.site/CRUD-Assignment-40146b36b2e9801c8e59fc9fb217f0c9) | [Notes](https://brindle-goal-102.notion.site/Week-1-Thursday-NOTES-40046b36b2e980f4ba2ae92bbd39dabf) |
 | Extra | [25 October](Day-02a-Extra-Class/README.md) | [Class code](Day-02a-Extra-Class/Code) · [Assignment](https://100xdevs.com/playground/javascript?view=problems&module=backend-js-classes-2-3) · [AI hackathon](https://brindle-goal-102.notion.site/AI-Hackathon-S30-3-18-Aug-3c046b36b2e980a8890eff3a07ed65a5) | [Notes](https://brindle-goal-102.notion.site/Class-Notes-Bun-Middleware-JWT-and-a-Course-Selling-App-40346b36b2e9808f8cfbfa05cc09cf7d) |
 | 04 | [Morning](Day-04/01-Morning/README.md) | — | [Notes](https://brindle-goal-102.notion.site/Mini-Kalshi-Prediction-Market-Backend-40646b36b2e9803f8402e00a7f8c1385) |
+| 05 | [Morning](Day-05/01-Morning/README.md) | — | [Excalidraw](https://drive.google.com/drive/folders/1k5Ktmf_-j9zzVsbmUbDPeHeK__agSimi?usp=drive_link) |
+| 05 | [Afternoon](Day-05/02-Afternoon/README.md) | — | [Excalidraw](https://drive.google.com/drive/folders/1k5Ktmf_-j9zzVsbmUbDPeHeK__agSimi?usp=drive_link) |
 
 ## Getting started
 
@@ -41,4 +44,4 @@ Use Node.js 22 or newer and npm for the Node projects. Install dependencies insi
 - Classroom code and unfinished assignment files retain their teaching context. See each session README for run instructions and known limitations.
 - The Fundamentals/Prerequisites course folder is excluded.
 
-Resources reflect the Web Dev course attachments available on **28 October 2026**. Follow the [course page](https://100xdevs.com/new-courses/winter-camp-2026-online/content?parentId=f_b9a89e6f-7a72-44a0-bb9e-aef3643c352d) for class recordings and newly added sessions.
+Resources reflect the Web Dev course attachments available on **29 October 2026**. Follow the [course page](https://100xdevs.com/new-courses/winter-camp-2026-online/content?parentId=f_b9a89e6f-7a72-44a0-bb9e-aef3643c352d) for class recordings and newly added sessions.

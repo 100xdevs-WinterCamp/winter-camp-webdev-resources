@@ -9,6 +9,7 @@ All Web Dev class code, assignments, and resource links from 100xDevs Winter Cam
 - [Extra Class · Express, Zod & MongoDB · 25 October 2026](Day-02a-Extra-Class/README.md)
 - [Day 04 · Building a CRUD Project · 27 October 2026](Day-04/README.md)
 - [Day 05 · Prediction Market Orderbooks · 29 October 2026](Day-05/README.md)
+- [Day 06 · TypeScript · 30 October 2026](Day-06/README.md)
 
 ## Class resources
 
@@ -22,6 +23,8 @@ All Web Dev class code, assignments, and resource links from 100xDevs Winter Cam
 | 04 | [Morning](Day-04/01-Morning/README.md) | — | [Notes](https://brindle-goal-102.notion.site/Mini-Kalshi-Prediction-Market-Backend-40646b36b2e9803f8402e00a7f8c1385) |
 | 05 | [Morning](Day-05/01-Morning/README.md) | — | [Excalidraw](https://drive.google.com/drive/folders/1k5Ktmf_-j9zzVsbmUbDPeHeK__agSimi?usp=drive_link) |
 | 05 | [Afternoon](Day-05/02-Afternoon/README.md) | — | [Excalidraw](https://drive.google.com/drive/folders/1k5Ktmf_-j9zzVsbmUbDPeHeK__agSimi?usp=drive_link) |
+| 06 | [Morning](Day-06/01-Morning/README.md) | — | [Notes](https://brindle-goal-102.notion.site/Create-Market-and-Create-Order-40946b36b2e980abba5de70a1b9ca80b#40946b36b2e980a8a5ebf4653bd8ac6d) |
+| 06 | [Afternoon](Day-06/02-Afternoon/README.md) | — | [Notes](https://brindle-goal-102.notion.site/Create-Market-and-Create-Order-Student-Notes-40946b36b2e98024add4db0a62a3091d) |
 
 ## Getting started
 
@@ -44,4 +47,4 @@ Use Node.js 22 or newer and npm for the Node projects. Install dependencies insi
 - Classroom code and unfinished assignment files retain their teaching context. See each session README for run instructions and known limitations.
 - The Fundamentals/Prerequisites course folder is excluded.
 
-Resources reflect the Web Dev course attachments available on **29 October 2026**. Follow the [course page](https://100xdevs.com/new-courses/winter-camp-2026-online/content?parentId=f_b9a89e6f-7a72-44a0-bb9e-aef3643c352d) for class recordings and newly added sessions.
+Resources reflect the Web Dev course attachments available on **30 October 2026**. Follow the [course page](https://100xdevs.com/new-courses/winter-camp-2026-online/content?parentId=f_b9a89e6f-7a72-44a0-bb9e-aef3643c352d) for class recordings and newly added sessions.

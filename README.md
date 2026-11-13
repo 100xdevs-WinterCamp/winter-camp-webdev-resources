@@ -11,6 +11,7 @@ All Web Dev class code, assignments, and resource links from 100xDevs Winter Cam
 - [Day 05 · Prediction Market Orderbooks · 29 October 2026](Day-05/README.md)
 - [Day 06 · TypeScript · 30 October 2026](Day-06/README.md)
 - [Day 07 · React · 3 November 2026](Day-07/README.md)
+- [Day 08 · React State Management and R2 · 12 November 2026](Day-08/README.md)
 
 ## Class resources
 
@@ -28,6 +29,8 @@ All Web Dev class code, assignments, and resource links from 100xDevs Winter Cam
 | 06 | [Afternoon](Day-06/02-Afternoon/README.md) | — | [Notes](https://brindle-goal-102.notion.site/Create-Market-and-Create-Order-Student-Notes-40946b36b2e98024add4db0a62a3091d) |
 | 07 | [Morning](Day-07/01-Morning/README.md) | — | [Notes](https://brindle-goal-102.notion.site/REACT-40c46b36b2e980d89474def04f9154be) |
 | 07 | [Afternoon](Day-07/02-Afternoon/README.md) | — | [Notes](https://brindle-goal-102.notion.site/REACT-40c46b36b2e980d89474def04f9154be) |
+| 08 | [Morning](Day-08/01-Morning/README.md) | — | [Notes](https://brindle-goal-102.notion.site/12-Nov-State-Management-41746b36b2e9804c9d94f7a647d7002e) |
+| 08 | [Afternoon](Day-08/02-Afternoon/README.md) | — | [Notes](https://brindle-goal-102.notion.site/R2-Image-Upload-Full-Teaching-Notes-31346b36b2e9801bbdcad5ba7c7cafc9) |
 
 ## Getting started
 
@@ -50,4 +53,4 @@ Use Node.js 22 or newer and npm for the Node projects. Install dependencies insi
 - Classroom code and unfinished assignment files retain their teaching context. See each session README for run instructions and known limitations.
 - The Fundamentals/Prerequisites course folder is excluded.
 
-Resources reflect the Web Dev course attachments available on **3 November 2026**. Follow the [course page](https://100xdevs.com/new-courses/winter-camp-2026-online/content?parentId=f_b9a89e6f-7a72-44a0-bb9e-aef3643c352d) for class recordings and newly added sessions.
+Resources reflect the Web Dev course attachments available on **12 November 2026**. Follow the [course page](https://100xdevs.com/new-courses/winter-camp-2026-online/content?parentId=f_b9a89e6f-7a72-44a0-bb9e-aef3643c352d) for class recordings and newly added sessions.

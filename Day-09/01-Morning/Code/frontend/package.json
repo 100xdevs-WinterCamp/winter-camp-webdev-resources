@@ -1,0 +1,27 @@
+{
+  "name": "bun-react-template",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun --hot src/index.ts",
+    "start": "NODE_ENV=production bun src/index.ts",
+    "build": "bun run build.ts"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.108.1",
+    "@types/axios": "^0.14.4",
+    "axios": "^1.21.1",
+    "bun-plugin-tailwind": "^0.1.2",
+    "react": "^19",
+    "react-dom": "^19",
+    "react-router": "^8.5.2",
+    "tailwindcss": "^4.1.11",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/bun": "latest"
+  }
+}

@@ -1,0 +1,58 @@
+/* src/index.css */
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  font-family: Inter, system-ui, sans-serif;
+  background: #101211;
+  color: #edf1eb;
+}
+
+body { margin: 0; }
+button, input { font: inherit; }
+button { cursor: pointer; }
+button:disabled { opacity: .55; cursor: wait; }
+:focus-visible { outline: 2px solid #b5ed83; outline-offset: 4px; }
+
+.shell { width: min(1040px, 92%); margin-inline: auto; }
+
+.panel {
+  background: #181c19;
+  border: 1px solid #343a34;
+  border-radius: 12px;
+  padding: clamp(22px, 4vw, 36px);
+}
+
+.page-title {
+  font-size: clamp(28px, 4vw, 40px);
+  line-height: 1.15;
+  letter-spacing: -.045em;
+  font-weight: 600;
+}
+
+.field { display: grid; gap: 7px; font-size: 14px; }
+.field input {
+  width: 100%;
+  background: #111512;
+  border: 1px solid #424a42;
+  border-radius: 6px;
+  padding: 10px 12px;
+}
+
+.btn-primary, .btn-secondary {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  padding: 9px 15px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.btn-primary { background: #b5ed83; color: #172011; }
+.btn-secondary { border: 1px solid #424a42; color: #edf1eb; }
+.nav-link { color: #c1c7c0; font-size: 14px; }
+.nav-link:hover { color: white; }
+.error { color: #ffb4ab; font-size: 14px; }
+.profile-row { display: grid; grid-template-columns: 90px 1fr; gap: 16px; padding: 16px 0; }
+.profile-row dt { color: #a9b2a8; }

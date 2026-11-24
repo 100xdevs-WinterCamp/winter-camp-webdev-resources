@@ -4,6 +4,7 @@
   "workspaces": {
     "": {
       "dependencies": {
+        "lightweight-charts": "^5.3.0",
         "react-router": "^8.5.2",
       },
     },
@@ -12,6 +13,10 @@
     "@remix-run/route-pattern": ["@remix-run/route-pattern@0.22.1", "", {}, "sha512-czdGJWh09Lapvcqt7Vb09KlrU2PhRJ8xQaI+AItTuD9aDJ5MAgxnS38lnys6Ll+6RJEqPiaUqTwIQhVLwFvv+w=="],
 
     "cookie-es": ["cookie-es@3.1.1", "", {}, "sha512-UaXxwISYJPTr9hwQxMFYZ7kNhSXboMXP+Z3TRX6f1/NyaGPfuNUZOWP1pUEb75B2HjfklIYLVRfWiFZJyC6Npg=="],
+
+    "fancy-canvas": ["fancy-canvas@2.1.0", "", {}, "sha512-nifxXJ95JNLFR2NgRV4/MxVP45G9909wJTEKz5fg/TZS20JJZA6hfgRVh/bC9bwl2zBtBNcYPjiBE4njQHVBwQ=="],
+
+    "lightweight-charts": ["lightweight-charts@5.3.0", "", { "dependencies": { "fancy-canvas": "2.1.0" } }, "sha512-w16fu2/FteUkIJdgc9G2tOCKs1fwFSqnqF8+kMgHGv0uGIfcfpEJhziSaQbML1yrkbeg4nQXV3msjmhBzhLNhw=="],
 
     "react": ["react@19.3.1", "", {}, "sha512-QNhWdt7nrgVWWQG58QuGsAR3jv3Hbe4mb4vz7w2csnHavciZJgda1CPNaldF6eVxv90ud3jUXpKlHL69gO38yw=="],
 

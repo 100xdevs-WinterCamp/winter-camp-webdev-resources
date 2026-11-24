@@ -14,6 +14,7 @@ import { useAuthStore } from "./store/useAuthStore";
 import "./index.css";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { useSession } from "./hooks/useSession";
+import StockDetails from "./pages/StockDetails";
 
 export function App() {
   const queryClient = new QueryClient();
@@ -42,7 +43,16 @@ export function App() {
               </ProtectedRoute>
             }
           />
+          <Route
+              path="/stocks/:stockId"
+              element={
+                <ProtectedRoute>
+                  <StockDetails />
+                </ProtectedRoute>
+              }
+            />
         </Route>
+
       </Routes>
     </BrowserRouter>
     </QueryClientProvider>

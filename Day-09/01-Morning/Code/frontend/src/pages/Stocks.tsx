@@ -1,14 +1,22 @@
-// src/pages/Stocks.tsx
 import MarketRow from "../components/MarketRow";
+import { useMarkets } from "../hooks/useMarkets";
 
-const markets = [
-  { symbol: "BTCUSDT", lastPrice: "62962.01000000", priceChangePercent: "-0.442" },
-  { symbol: "ETHUSDT", lastPrice: "1780.78000000", priceChangePercent: "0.444" },
-  { symbol: "SOLUSDT", lastPrice: "74.30000000", priceChangePercent: "0.392" },
-  { symbol: "DOGEUSDT", lastPrice: "0.09412000", priceChangePercent: "-1.250" },
+const SYMBOLS = [
+  "BTCUSDT",
+  "ETHUSDT",
+  "BNBUSDT",
+  "SOLUSDT",
+  "XRPUSDT",
+  "DOGEUSDT",
+  "ADAUSDT",
+  "TRXUSDT",
+  "LINKUSDT",
+  "AVAXUSDT",
 ];
 
 export default function Stocks() {
+  const { data: markets, isPending, error } = useMarkets(SYMBOLS);
+
   return (
     <section className="panel">
       <h1 className="page-title">Spot markets</h1>
@@ -21,8 +29,11 @@ export default function Stocks() {
           <span className="text-right">24h change</span>
         </div>
 
+        {isPending && <p className="px-4 py-6 text-zinc-400">Loading markets…</p>}
+        {error && <p role="alert" className="error px-4 py-6">{error.message}</p>}
+
         <div className="divide-y divide-zinc-800">
-          {markets.map(market => (
+          {markets?.map(market => (
             <MarketRow key={market.symbol} {...market} />
           ))}
         </div>
